@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Added blackboard coordinator with versioned entries, knowledge sources, deterministic priority scheduling, fault isolation, and bounded resources.
 - Initial project structure from the factory utility template.
